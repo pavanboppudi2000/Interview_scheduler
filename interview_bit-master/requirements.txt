@@ -1,0 +1,9 @@
+Flask
+Flask-Mail
+python-dotenv
+requests
+pylint
+autopep8
+Flask-SqlAlchemy
+PyYAML
+argh
